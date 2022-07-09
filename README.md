@@ -15,7 +15,7 @@ When screenshot is taken, this event will be triggered with the path of the imag
 <img src="https://github.com/jewelshkjony/ScreenshotTaker/raw/main/images/ScreenshotTaken.png"/>
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/ScreenshotTaker/raw/main/images/app-inventor-aix-download-icon.png"/> <a href="https://github.com/jewelshkjony/ShakeDetector/releases/download/v1.0.3/com.jewel.shakedetector.aix">com.jewel.shakedetector</a>(19.3 KB) \
+<img src="https://github.com/jewelshkjony/ScreenshotTaker/raw/main/images/app-inventor-aix-download-icon.png"/> <a href="https://github.com/jewelshkjony/ScreenshotTaker/releases/download/ScreenshotTaker-2.2.0/com.jewel.screenshottaker.aix">com.jewel.screenshottaker.aix</a>(12.9 KB) \
 Version: 2.2.0\
 Price: FREE\
 Last amendment: 09 July 2022\
