@@ -21,8 +21,9 @@ Price: FREE\
 Last amendment: 09 July 2022\
 Supported builder: Kodular, Niotron, App Inventor and it's other distributions.
 
-### Contact with me -------------
-<a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://m.me/jewelshkjony">Messenger</a>
+## 📫 How to reach me: ...
+
+<a href="https://t.me/jewelshkjony">Telegram</a> - <a href="https://wa.me/8801775668913">WhatsApp</a> - <a href="https://fb.com/jewelshkjony">Facebook</a> - <a href="https://m.me/jewelshkjony">Messenger</a>
 
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     Copyright (c) 2022 Jewel Shikder Jony
